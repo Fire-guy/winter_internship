@@ -1,4 +1,4 @@
-##Kaggle Notebook: Salary Dataset - Simple linear regression 
+## Kaggle Notebook: Salary Dataset - Simple linear regression 
 
 This repository contains my Kaggle notebook for building a model to evaluate the sentiments.
 
